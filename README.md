@@ -1,6 +1,7 @@
 # M5Stack Library
 
-## Usage
+English | [中文](docs/getting_started_cn.md)
+## Usage 
 ### Installing the USB Driver
 - [Download the SiLabs CP2104 Driver](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers) but 
 do NOT use the Windows 10 Universal (v10.1.1) driver! If you happen to download the Universal version, you may need to manually revert to 6.7.1 
@@ -95,9 +96,10 @@ RFM95_INT | GPIO26 | DIO0 | incorrectly labeled GPIO36 in some places
 - [M5StackSAM](https://github.com/tomsuch/M5StackSAM) - Simple Applications Menu Arduino Library for M5Stack
 - [cfGUI](https://github.com/JF002/cfGUI) - A simple GUI library for M5Stack (ESP32)
 - [GUIslice](https://github.com/ImpulseAdventure/GUIslice) - A lightweight GUI framework suitable for embedded displays
+- [M5ez](https://github.com/ropg/M5ez) - The easy way to program on the M5Stack
 - [M5Stack MultiApp Advanced](https://github.com/botofancalin/M5Stack-MultiApp-Advanced) - A M5Stack firmware made on PlatformIO
 - [M5Stack ESP32 Oscilloscope](https://github.com/botofancalin/M5Stack-ESP32-Oscilloscope) - A fully functional oscilloscope based on ESP32 M5Stack
-- [M5Stack-Avator](https://github.com/meganetaaan/m5stack-avator) - An M5Stack library for rendering avatar faces
+- [M5Stack-Avatar](https://github.com/meganetaaan/m5stack-avatar) - An M5Stack library for rendering avatar faces
 - [M5Stack_CrackScreen](https://github.com/nomolk/M5Stack_CrackScreen) - Crack your M5Stack!!
 - [M5_Shuttle_Run](https://github.com/n0bisuke/M5_Shuttle_Run) - M5_Shuttle_Run
 - [nixietubeM5](https://github.com/drayde/nixietubeM5) - (Fake) Nixie Tube Display on a M5Stack
